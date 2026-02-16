@@ -9526,3 +9526,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2026.02.16-16.37.02:792][166]LogSavePackage: Moving '../../../../../Repozytoria/UE 4.27/KZ_TopDownShooter/TopDownAC/Saved/MainEA1F656F48ED6108B9FD42AE9ED95882.tmp' to '../../../../../Repozytoria/UE 4.27/KZ_TopDownShooter/TopDownAC/Content/Levels/Main.umap'
 [2026.02.16-16.37.02:833][166]AssetCheck: New page: Asset Save: Main
 [2026.02.16-16.37.02:833][166]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2026.02.16-16.37.28:953][529]LogEditorViewport: Clicking on Actor (LMB): Gun_DMG_TEST_C (Gun_DMG_TEST)
+[2026.02.16-16.37.30:050][593]Cmd: DELETE
+[2026.02.16-16.37.30:051][593]Cmd: ACTOR DELETE
+[2026.02.16-16.37.30:081][593]LogEditorActor: Deleted Actor: Gun_DMG_TEST_C
+[2026.02.16-16.37.30:104][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2026.02.16-16.37.30:106][593]LogEditorActor: Deleted 1 Actors (0.054 secs)
